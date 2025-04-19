@@ -1,12 +1,11 @@
 ---
 
-### 🍨 Resep Es Krim Putar Durian (untuk mesin es krim 10 liter)
+### 🍨 Resep Es Krim Putar Durian (untuk mesin es krim 10 liter) ###
 
-#### **Bahan-bahan:**
+#### **Bahan-bahan:** ####
 - 1 butir kelapa tua + 2,5 liter air (untuk membuat santan)
 - 500 gram gula pasir
-- 500 ml susu cair full cream (misalnya Ultra Milk)  
-  *Alternatif: bisa diganti dengan 100 gram tepung hard es krim
+- 500 ml susu cair full cream (misalnya Ultra Milk)  Alternatif bisa diganti dengan 100 gram tepung hard es krim
 - 50 gram tepung maizena
 - 100 gram tepung tapioka
 - 1–2 sendok teh garam
@@ -15,7 +14,7 @@
 
 ---
 
-### 🧑‍🍳 Cara Membuat Adonan Es Krim:
+### 🧑‍🍳 Cara Membuat Adonan Es Krim: ###
 
 1. **Buat santan:** Parut kelapa dan peras bersama 2,5 liter air untuk menghasilkan santan. Saring agar bersih.
 2. **Masak santan:** Panaskan santan dengan api sedang sambil terus diaduk agar tidak pecah.
@@ -30,7 +29,7 @@
 
 ---
 
-### 🧊 Cara Membuat Es Krim Putar (dengan alat es krim 10 liter):
+### 🧊 Cara Membuat Es Krim Putar (dengan alat es krim 10 liter): ###
 
 1. **Siapkan alat es krim putar:**
    - Buka tabung luar alat es krim.
